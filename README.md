@@ -9,7 +9,7 @@ Data Analyst with a strong analytical mindset and a Business Intelligence founda
 - Passionate about data analysis and business intelligence  
 - Focused on building dashboards that support decision-making  
 - Strong skills in Excel, SQL, and Power BI  
-- Currently expanding my knowledge in Python for data analysis  
+- Python for data analysis  
 
 ---
 
